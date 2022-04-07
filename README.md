@@ -31,3 +31,8 @@ Si no no aparece nada.
 # Entornos virtuales
 
 La gestión de los entornos virtuales se ha llevado por medio de: https://docs.python.org/es/3/tutorial/venv.html
+
+
+# Tutorial 
+
+El tutorial es el de Ander Jauregui:  https://anderfernandez.com/en/blog/how-to-put-python-model-into-production/
