@@ -21,7 +21,14 @@ control + click
 ```
 sobre el enlace de HTTPS, y añadirle en la cola de la URL un "/docs". 
 
-Si no no aparece nada. 
+Si entramos a el enlace + docs nos apareceran todos los elementos publicos en la API. 
+
+Si queremos acceder a uno en concreto en la url, tendremos que pasarle el enlace completo: 
+
+```
+http://127.0.0.1:8000/get-iris
+```
+
 
 
 
