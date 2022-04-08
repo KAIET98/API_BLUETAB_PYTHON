@@ -42,4 +42,4 @@ La gestión de los entornos virtuales se ha llevado por medio de: https://docs.p
 
 # Tutorial 
 
-El tutorial es el de Ander Jauregui:  https://anderfernandez.com/en/blog/how-to-put-python-model-into-production/
+El tutorial es el de Ander Jauregui:  https://anderfernandez.com/blog/como-crear-api-en-python/
