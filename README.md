@@ -42,4 +42,4 @@ La gestión de los entornos virtuales se ha llevado por medio de: https://docs.p
 
 # Tutorial 
 
-El tutorial es el de Ander Jauregui:  https://anderfernandez.com/blog/como-crear-api-en-python/
+tutorial con conocimientos extendidos del blog de Ander Jauregui: https://anderfernandez.com/blog/como-crear-api-en-python/
